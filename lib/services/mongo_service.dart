@@ -2,8 +2,8 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class MongoService {
-  static const String _appId = 'admin';     
-  static const String _apiKey = '0000';    
+  static const String _appId = '670530df03708153f35ab9b4';     
+  static const String _apiKey = 'al-0uxBAAcCgOAberfPgh2bOqyjuqgU2eD2W8vbhmD55QB';    
   static const String _baseUrl =
       'https://data.mongodb-api.com/app/$_appId/endpoint/data/v1/action';
   static const String _db = 'clinica';
